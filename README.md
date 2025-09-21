@@ -2,11 +2,10 @@
 
 ## Full-stack Developer
 I enjoy programming across a wide range of technologies, from low-level assembly for x86/x64 chips to Arduino, from local Debian servers to automated DigitalOcean deployments, and from HTML with embedded JS scripts to complex ReactJS applications.  
-* 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio [here](http://ruben-mulato.vercel.app)
+* 🖥️  See my portfolio [here](https://rubenm.dev)
 * ✉️  You can contact me at [rubenmulato99@gmail.com](mailto:rubenmulato99@gmail.com)
 * 🧠  I'm learning Kubernetes
-* ⚡  I love motorcycles
+* 🏍️  I love motorcycles
 
 ### Skills  
 
